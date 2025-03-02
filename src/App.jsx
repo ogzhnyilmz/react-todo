@@ -45,7 +45,7 @@ export default function TodoApp() {
   });
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat px-4 md:px-10 lg:px-20" style={{ backgroundImage: "url('/bg-image.jpg')" }}>
+    <div className="min-h-screen flex items-center justify-center bg-cover bg-center bg-no-repeat px-4 md:px-10 lg:px-20" style={{ backgroundImage: "url('/images/bg-image.jpg')" }}>
       <div className="w-full max-w-md md:max-w-lg lg:max-w-2xl p-4 bg-gray-100 bg-opacity-90 rounded-lg shadow-lg mt-10">
         <h1 className="text-2xl font-bold text-center mb-4">Todo React</h1>
         <div className="flex flex-col sm:flex-row mb-4">
